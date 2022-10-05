@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 0 string SCHOOL School data
 !:mimi School
 file -C -m school.mgc
